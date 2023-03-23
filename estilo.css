@@ -1,11 +1,11 @@
-body{
+body {
     background-color: #708090;
     color: black;
     display: flex;
     justify-content: center;
 }
 
-main{
+main {
     background-color: #B0C4DE;
     border-radius: 10px;
     display: flex;
@@ -16,7 +16,7 @@ main{
 
 }
 
-section{
+section {
     display: flex;
     justify-content: center;
     flex-flow: column nowrap;
@@ -25,22 +25,22 @@ section{
 
 }
 
-.nav-bar{
+.nav-bar {
 
     background-color: #B0E0E6;
     width: 100%;
 }
 
-.nav-bar--content{
+.nav-bar--content {
     list-style: none;
     display: flex;
     justify-content: space-around;
     font-weight: bold;
     color: #fff;
-    
+
 }
 
-.capa{
+.capa {
     width: 100%;
     height: auto;
     /* border: 2px hidden; */
@@ -48,7 +48,7 @@ section{
 
 }
 
-li{
+li {
     /* border: 2px hidden; */
     border-radius: 10px;
     width: auto;
@@ -57,30 +57,30 @@ li{
     padding: 0px 10px;
 }
 
-a{
+a {
     color: #000;
     text-decoration: none;
 }
 
-.general-content{
+.general-content {
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
 }
 
-.copy{
+.copy {
     display: flex;
     justify-content: center;
 }
 
-img{
+img {
     width: 100%;
     height: auto;
     border-radius: 10px;
 }
 
-form{
+form {
     display: flex;
-    flex-flow:column nowrap;
-    
+    flex-flow: column nowrap;
+
 }
