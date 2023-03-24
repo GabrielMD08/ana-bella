@@ -31,6 +31,8 @@ section {
     width: 100%;
 }
 
+
+
 .nav-bar--content {
     list-style: none;
     display: flex;
@@ -82,5 +84,23 @@ img {
 form {
     display: flex;
     flex-flow: column nowrap;
+    
 
+}
+
+.contact-data-{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact-data--content{
+    display: flex;
+    flex-flow: column nowrap;
+    max-width: 500px;
+
+}
+
+textarea{
+    max-width: 100%;
+    height: auto;
 }
